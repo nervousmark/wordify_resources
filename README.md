@@ -1,0 +1,2 @@
+# wordify_resources
+Logo
